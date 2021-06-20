@@ -1,7 +1,18 @@
 # ManageLibraries
-Single-Page Application (SPA) built with React, C# and SQL Server.
 
-For more information, please see the PDF files Application-Guide and SPA_React_CSharp.
+This single-page application (SPA) was built to manage libraries with:
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/) and [ASP.NET](https://dotnet.microsoft.com/apps/aspnet) for cross-platform server-side code
+- [Bootstrap](https://getbootstrap.com/) for layout and stylin
+- [React](https://reactjs.org/) for client-side code
+- [SQL Server](https://www.microsoft.com/en-us/sql-server/)
+- [Webpack](https://webpack.github.io/) for building and bundling client-side resources
 
+![screenshot](./Screenshot-ManageLibraries.jpg)
 
-PS: The Zip files were compressed with 7-Zip.
+# Additional Information
+Here is the screen for adding a new library:
+
+![screenshot](./Screenshot-AddLibrary.jpg)
+
+# How to run this service
+Please see the PDF file Application-Guide.
