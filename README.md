@@ -11,7 +11,7 @@ This single-page application (SPA) was built to manage libraries with:
 # Additional Information
 Here is the screen for adding a new library:
 
-![screenshot](./Screenshot-AddLibrary.jpg)
+<img src="./Screenshot-AddLibrary.jpg" alt="Add Library" style="width:516px;height:271px;">
 
 ## References
 Based on the C# Corner article[^1]
