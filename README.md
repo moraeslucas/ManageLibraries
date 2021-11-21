@@ -14,6 +14,6 @@ Here is the screen for adding a new library:
 <img src="./Screenshot-AddLibrary.jpg" alt="Add Library" style="width:516px;height:271px;">
 
 ## References
-Based on the C# Corner article[^1]
+C# Corner article[^1]
 [^1]: [C# Corner](https://www.c-sharpcorner.com/)
 
